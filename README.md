@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a dedicated **Frontend Developer** with a pass
 - Experienced in designing responsive and user-friendly interfaces with **Tailwind CSS** and **ANT Design**.
 - Strong understanding of **RESTful APIs** and integrating them into web applications.
 - Proficient in **Git** and **GitHub** for version control, ensuring seamless collaboration and project management.
-- Enthusiastic about learning new technologies and staying updated with the latest trends in frontend development.
+- Enthusiastic about learning new technologies and staying updated with the latest trends in Web development.
 
 ## 📫 Let's Connect!
 - Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/your-linkedin-profile) or [Email](mailto:gyansarowar123@gmail.com). 
