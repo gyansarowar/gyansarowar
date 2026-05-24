@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a  **Software Developer** with a passion for c
 - Enthusiastic about learning new technologies and staying updated with the latest trends in Web development.
 
 ## 📫 Let's Connect!
-- Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/your-linkedin-profile) or [Email](mailto:gyansarowar123@gmail.com). 
+- Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/gyan2307/) or [Email](mailto:gyansarowar123@gmail.com). 
 - I'm always eager to connect with fellow developers, discuss new projects, or explore job opportunities in frontend development!
 
 <h4 align="center"><i>Crafting beautiful web experiences, one line of code at a time.</i></h4>
