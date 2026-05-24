@@ -1,6 +1,6 @@
 # Hi there, I'm Gyan Sarowar! 👋
 
-[![LinkedIn](https://img.shields.io/badge/-Gyan%20Sarowar-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/your-linkedin-profile)](https://linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/-Gyan%20Sarowar-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/gyan2307)
 [![Gmail](https://img.shields.io/badge/-gyansarowar123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyansarowar123@gmail.com)](mailto:gyansarowar123@gmail.com)
 
 Welcome to my GitHub profile! I'm a  **Software Developer** with a passion for crafting beautiful and intuitive user interfaces. I thrive on turning innovative ideas into reality through clean and efficient code.
